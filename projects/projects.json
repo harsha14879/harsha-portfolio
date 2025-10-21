@@ -5,8 +5,8 @@
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -40,43 +40,43 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "name": "FootPrint Calculator",
+    "desc": "Calculate and track your carbon footprint to make eco-friendly lifestyle choices",
+    "image": "foot",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://harsha14879.github.io/foot-print-calculator/",
+      "code": "https://github.com/harsha14879/foot-print-calculator"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "name": "Web Based Learning platform",
+    "desc": "An interactive web-based platform designed to make learning easy, engaging, and accessible for everyone",
+    "image": "learn",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://harsha14879.github.io/Learning-platform/",
+      "code": "https://github.com/harsha14879/Learning-platform"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Online Complaint Box",
+    "desc": "A secure online platform to submit, track, and resolve complaints efficiently",
+    "image": "online",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "#",
+      "code": "https://github.com/22K61A05A0/smartbridge_full_stack"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "name": "java based calculator",
+    "desc": "A simple Java-based calculator for performing basic arithmetic operations",
+    "image": "java",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://harsha14879.github.io/java-calculator/",
+      "code": "https://github.com/harsha14879/java-calculator"
     }
   },
   {
@@ -85,8 +85,8 @@
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -95,8 +95,8 @@
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -105,8 +105,8 @@
     "image": "webuiclones",
     "category": "mern",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -136,7 +136,7 @@
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": ""
     }
   },
   {
@@ -145,8 +145,8 @@
     "image": "composey",
     "category": "basicweb",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -155,8 +155,8 @@
     "image": "webviewapp",
     "category": "android",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+      "view": "",
+      "code": ""
     }
   },
   {
